@@ -1,0 +1,231 @@
+{
+  "build_id": "20261013T220322786950",
+  "embedding_model": "qwen3-embedding:0.6b",
+  "chunk_size": 1600,
+  "chunk_overlap": 160,
+  "extractor_version": "html-v1-page-chunks",
+  "success": [],
+  "skipped": [
+    {
+      "source": "网页链接.txt",
+      "reason": "unsupported_extension"
+    }
+  ],
+  "pending_review": [],
+  "failed": [],
+  "reused": [
+    {
+      "source": "01_学籍与成绩/网页/2026年普通本科生转学院工作通知.html",
+      "chunks": 1
+    },
+    {
+      "source": "01_学籍与成绩/网页/可信电子成绩单服务通知.html",
+      "chunks": 1
+    },
+    {
+      "source": "01_学籍与成绩/网页/本科生学籍管理实施细则历史版本.html",
+      "chunks": 5
+    },
+    {
+      "source": "01_学籍与成绩/网页/本科生辅修专业报名与管理办法通知.html",
+      "chunks": 1
+    },
+    {
+      "source": "01_学籍与成绩/附件/20260106obhew.docx",
+      "chunks": 2
+    },
+    {
+      "source": "01_学籍与成绩/附件/可信电子成绩单服务学生端操作手册.docx",
+      "chunks": 9
+    },
+    {
+      "source": "01_学籍与成绩/附件/附件1：武汉大学本科生修读辅修专业、双学士学位项目管理办法(试行)（武大本字〔2024〕42号）.pdf",
+      "chunks": 6
+    },
+    {
+      "source": "01_学籍与成绩/附件/附件2：武汉大学2023级本科生修读辅修专业招生一览表.pdf",
+      "chunks": 2
+    },
+    {
+      "source": "02_推免与创新学分/网页/文学院2026届推免实施细则.html",
+      "chunks": 3
+    },
+    {
+      "source": "02_推免与创新学分/网页/新修订推免工作管理办法通知.html",
+      "chunks": 1
+    },
+    {
+      "source": "02_推免与创新学分/附件/2022届推荐优秀应届本科毕业生免试攻读硕士学位研究生加分指导意见OA.doc",
+      "chunks": 3
+    },
+    {
+      "source": "02_推免与创新学分/附件/关于修订印发武汉大学推荐优秀应届本科毕业生免试攻读硕士学位研究生工作管理办法的通知.doc",
+      "chunks": 6
+    },
+    {
+      "source": "02_推免与创新学分/附件/文学院推荐免试研究生综合评分办法.docx",
+      "chunks": 6
+    },
+    {
+      "source": "03_奖学金与评奖评优/附件/202609227i5lp.pdf",
+      "chunks": 17
+    },
+    {
+      "source": "03_奖学金与评奖评优/附件/EF1262EEBA6B8940CAE4351E25A_A6094347_32458.pdf",
+      "chunks": 9
+    },
+    {
+      "source": "04_学生资助/网页/关于修订印发《武汉大学本科生国家助学金实施细则》的通知 04-17.html",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/网页/学生资助政策制度入口.html",
+      "chunks": 2
+    },
+    {
+      "source": "04_学生资助/网页/家庭经济困难学生认定栏目.html",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/网页/新资助系统困难生状态查询指南.html",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/网页/资助资料下载.html",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/2010112515513_201841994228.doc",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/201841993954.doc",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/2018814161210.doc",
+      "chunks": 4
+    },
+    {
+      "source": "04_学生资助/附件/201911517574.docx",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/2019822155227_202172151027.doc",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/202011017637.xls",
+      "chunks": 2
+    },
+    {
+      "source": "04_学生资助/附件/202011017724.doc",
+      "chunks": 2
+    },
+    {
+      "source": "04_学生资助/附件/202051994645_2020525153955.docx",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/2021101416270.doc",
+      "chunks": 2
+    },
+    {
+      "source": "04_学生资助/附件/20211110144522.doc",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/202142610023.xls",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/202142695916.xls",
+      "chunks": 2
+    },
+    {
+      "source": "04_学生资助/附件/202162317398.doc",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/20225239737.pdf",
+      "chunks": 71
+    },
+    {
+      "source": "04_学生资助/附件/2025nianrendingshouce-08-wuhandaxuejiatingjingjikunnanxueshengrendingtanhuajilubiao.docx",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/37E1556F74952BA1294E245929E_28A9CA2C_4DD81.pdf",
+      "chunks": 4
+    },
+    {
+      "source": "04_学生资助/附件/关于修订印发《武汉大学国家助学贷款管理实施办法》的通知.pdf",
+      "chunks": 8
+    },
+    {
+      "source": "04_学生资助/附件/关于修订印发《武汉大学本科生国家助学金实施细则》的通知（武大学工字(2026)7号）.pdf",
+      "chunks": 6
+    },
+    {
+      "source": "04_学生资助/附件/国家助学金申请表.doc",
+      "chunks": 1
+    },
+    {
+      "source": "04_学生资助/附件/武汉大学本科生专项困难资助申请表.doc",
+      "chunks": 1
+    },
+    {
+      "source": "05_学校治理与制度索引/网页/武汉大学章程.html",
+      "chunks": 9
+    },
+    {
+      "source": "05_学校治理与制度索引/附件/419AB3B3FFA90366F9C4157A88C_0F270FA6_6F350.pdf",
+      "chunks": 10
+    }
+  ],
+  "added": [],
+  "updated": [],
+  "unchanged_pending": [
+    {
+      "source": "03_奖学金与评奖评优/网页/2025至2026学年奖学金和评奖评优通知.html",
+      "fingerprint": "260fcbd0f18b3f1ab28fdd7b832b96e7e4f5877c6a6ae13b96d3644da79d0979"
+    },
+    {
+      "source": "04_学生资助/网页/关于修订印发《武汉大学国家助学贷款管理实施办法》的通知 04-17.html",
+      "fingerprint": "46108b67b516e3d6c2f12041d80c97646830541d9d924fe61dcf0154c6fe44e3"
+    },
+    {
+      "source": "04_学生资助/网页/关于印发《武汉大学学生学费减免和临时困难补助管理条例》的通知 07-08.html",
+      "fingerprint": "9594ae78db6eeb6b85e0b313e7c920fde800b39b9747721878e2a51cec3610f5"
+    },
+    {
+      "source": "04_学生资助/网页/关于印发《武汉大学本科生勤工助学管理实施办法（修订）》的通知 02-18.html",
+      "fingerprint": "62891a4f02258d014dae48d0c0a98e886eb5d0a06d29cf8e871cd7096308f1f7"
+    },
+    {
+      "source": "04_学生资助/网页/武汉大学国家助学金申请表 2022-11-15.html",
+      "fingerprint": "5053f202948aafe1e4e185cb521c4c7b51122282ca1b6319cd507d7b57a3357b"
+    },
+    {
+      "source": "04_学生资助/网页/武汉大学家庭经济困难学生认定实施办法 07-08.html",
+      "fingerprint": "889aa02bec7d462838e54efb5d9436aad444492041657781d2ceb61837a077e7"
+    },
+    {
+      "source": "04_学生资助/网页/武汉大学家庭经济困难学生认定实施办法 2020-07-08.html",
+      "fingerprint": "7fe07c341e5afa6c9e7697ddaa800cdbfd5ba14c2c4a7309242f5a46698b5543"
+    },
+    {
+      "source": "04_学生资助/网页/武汉大学本科生专项困难补助申请表（专项临时困难补助） 2022-11-15.html",
+      "fingerprint": "3b2d0f96086187aeceb81c8eeab71a241ef69d5152e0f6a2fec73169576d3c98"
+    }
+  ],
+  "deletion_candidates": [],
+  "mode": "incremental",
+  "baseline_collection": "whu_knowledge_base_candidate_20261013T220209213769",
+  "full_rebuild_reason": null,
+  "candidate_collection": "whu_knowledge_base_candidate_20261013T220209213769",
+  "chunks": 209,
+  "embedded_chunks": 0,
+  "chroma_directory": "/home/wyf/local_rag_first/data/whu-rag/学校知识库/chroma",
+  "status": "unchanged"
+}

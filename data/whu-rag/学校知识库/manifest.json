@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "knowledge_base_version": 1,
+  "university": "武汉大学",
+  "abbreviation": "WHU",
+  "accepted": false,
+  "active_verified_version": null,
+  "sources": {
+    "9011514ee4707854": {
+      "source_id": "9011514ee4707854",
+      "path": "01_学籍与成绩/网页/2026年普通本科生转学院工作通知.html",
+      "fingerprint": "f023f6f3ea56ff6e28ff52f16c8eb55a6843a37fbbf689a99f501e651c0ef282",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "a1fa7334ac21452f": {
+      "source_id": "a1fa7334ac21452f",
+      "path": "01_学籍与成绩/网页/可信电子成绩单服务通知.html",
+      "fingerprint": "c23fee6f6e212897c09e1e23e9d4e3cc2ddf83564f7e513fd2c23a7bdc5b4234",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "7b4b8680e6f1892d": {
+      "source_id": "7b4b8680e6f1892d",
+      "path": "01_学籍与成绩/网页/本科生学籍管理实施细则历史版本.html",
+      "fingerprint": "71dc1cf0419d39b74d18cc3cab56ce83529091e73454ff9fdaa58b784596ee55",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "31bc2d9ce5ec6759": {
+      "source_id": "31bc2d9ce5ec6759",
+      "path": "01_学籍与成绩/网页/本科生辅修专业报名与管理办法通知.html",
+      "fingerprint": "c1525fdb8bec6b4a9d6ca91fdf1933aa17ebe80991302fb6ed94b1a9b27717f6",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "0899bd9f2035e9a0": {
+      "source_id": "0899bd9f2035e9a0",
+      "path": "01_学籍与成绩/附件/20260106obhew.docx",
+      "fingerprint": "d1c6b5b1624da3f1b79b5f159ca9874f337dfe9a76a43ebd9acd3f2e341dfe8f",
+      "type": ".docx",
+      "status": "success"
+    },
+    "52d6c8ee33bb62c6": {
+      "source_id": "52d6c8ee33bb62c6",
+      "path": "01_学籍与成绩/附件/可信电子成绩单服务学生端操作手册.docx",
+      "fingerprint": "d7d7ab59f1b8585ea86d647b232ffb91914d75dcba79ef4afb847a14ee8ea967",
+      "type": ".docx",
+      "status": "success"
+    },
+    "02eaa8d3985fdee9": {
+      "source_id": "02eaa8d3985fdee9",
+      "path": "01_学籍与成绩/附件/附件1：武汉大学本科生修读辅修专业、双学士学位项目管理办法(试行)（武大本字〔2024〕42号）.pdf",
+      "fingerprint": "013524fbb0ede1f03eb3a58b36d02a0965a626cf6dcbebff5e6f21a7fe12336e",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "658074d1c63e1d1e": {
+      "source_id": "658074d1c63e1d1e",
+      "path": "01_学籍与成绩/附件/附件2：武汉大学2023级本科生修读辅修专业招生一览表.pdf",
+      "fingerprint": "40ca659bc1e075d247644a4ed368148f828145fb2456d59624e816a54aede34f",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "3beac0cf6340edf0": {
+      "source_id": "3beac0cf6340edf0",
+      "path": "02_推免与创新学分/网页/文学院2026届推免实施细则.html",
+      "fingerprint": "1f08e89edb144915ada3c5035aeb1e239b6b3c4a34380d2a13b1202486d64b57",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "9a52ba32eafe0636": {
+      "source_id": "9a52ba32eafe0636",
+      "path": "02_推免与创新学分/网页/新修订推免工作管理办法通知.html",
+      "fingerprint": "2658038784d6277fece1b2b97c8d67f6b31913974d5799aff91d030e11a39692",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "4e47c827001b4655": {
+      "source_id": "4e47c827001b4655",
+      "path": "02_推免与创新学分/附件/2022届推荐优秀应届本科毕业生免试攻读硕士学位研究生加分指导意见OA.doc",
+      "fingerprint": "1563f1c2a6e8717ce34c1e3c4b9f9c0bfa014bc436368f5982b46a03bcd3422c",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "45967ff9dc06fd86": {
+      "source_id": "45967ff9dc06fd86",
+      "path": "02_推免与创新学分/附件/关于修订印发武汉大学推荐优秀应届本科毕业生免试攻读硕士学位研究生工作管理办法的通知.doc",
+      "fingerprint": "5056425598b8ff553cf9f9cbb29ca3a7c33f09efb970123a3118eb32f2ca9fee",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "9a47fd5319a31ebe": {
+      "source_id": "9a47fd5319a31ebe",
+      "path": "02_推免与创新学分/附件/文学院推荐免试研究生综合评分办法.docx",
+      "fingerprint": "43ba61b14d1379d55f82ad6455b71552da0ba5540ea5944bbc3c21d479074f08",
+      "type": ".docx",
+      "status": "success"
+    },
+    "63af50f98bb3b7aa": {
+      "source_id": "63af50f98bb3b7aa",
+      "path": "03_奖学金与评奖评优/网页/2025至2026学年奖学金和评奖评优通知.html",
+      "fingerprint": "260fcbd0f18b3f1ab28fdd7b832b96e7e4f5877c6a6ae13b96d3644da79d0979",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "945e31950863474a": {
+      "source_id": "945e31950863474a",
+      "path": "03_奖学金与评奖评优/附件/202609227i5lp.pdf",
+      "fingerprint": "5cad7979cc70c9de7db20c6d99e90615e529bc473834e477acc3d7b9a461f165",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "837339903fb78dc6": {
+      "source_id": "837339903fb78dc6",
+      "path": "03_奖学金与评奖评优/附件/EF1262EEBA6B8940CAE4351E25A_A6094347_32458.pdf",
+      "fingerprint": "5ed739b14a844704e7effa3cf6656c3ff9355cdc7aa48f0edce7cbc9fad059c2",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "e1638cdc82efca95": {
+      "source_id": "e1638cdc82efca95",
+      "path": "04_学生资助/网页/关于修订印发《武汉大学国家助学贷款管理实施办法》的通知 04-17.html",
+      "fingerprint": "46108b67b516e3d6c2f12041d80c97646830541d9d924fe61dcf0154c6fe44e3",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "842f5959fd56690a": {
+      "source_id": "842f5959fd56690a",
+      "path": "04_学生资助/网页/关于修订印发《武汉大学本科生国家助学金实施细则》的通知 04-17.html",
+      "fingerprint": "00cd95c5ac2f919bef2173310b313446c2d6f45bd87e7c361c86c1972229a493",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "d938613746b37ff1": {
+      "source_id": "d938613746b37ff1",
+      "path": "04_学生资助/网页/关于印发《武汉大学学生学费减免和临时困难补助管理条例》的通知 07-08.html",
+      "fingerprint": "9594ae78db6eeb6b85e0b313e7c920fde800b39b9747721878e2a51cec3610f5",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "b09b48a96062aa71": {
+      "source_id": "b09b48a96062aa71",
+      "path": "04_学生资助/网页/关于印发《武汉大学本科生勤工助学管理实施办法（修订）》的通知 02-18.html",
+      "fingerprint": "62891a4f02258d014dae48d0c0a98e886eb5d0a06d29cf8e871cd7096308f1f7",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "f4e85c8e8ffea529": {
+      "source_id": "f4e85c8e8ffea529",
+      "path": "04_学生资助/网页/学生资助政策制度入口.html",
+      "fingerprint": "e0a0dc77e16a54c4be19e539ca8cb53eeee0c1c78a5502a7a79693099c3ea373",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "e61873274ccab633": {
+      "source_id": "e61873274ccab633",
+      "path": "04_学生资助/网页/家庭经济困难学生认定栏目.html",
+      "fingerprint": "ef578eb595029841cf76e4ffb78222dae271a4448a740f83db5f48900e751306",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "0c1a6b5935094ebc": {
+      "source_id": "0c1a6b5935094ebc",
+      "path": "04_学生资助/网页/新资助系统困难生状态查询指南.html",
+      "fingerprint": "c95d1dfbdaad9c391f80354e0942415784daa85a41c7f7ae0e0c72b06f94b90e",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "039398af5b2cb212": {
+      "source_id": "039398af5b2cb212",
+      "path": "04_学生资助/网页/武汉大学国家助学金申请表 2022-11-15.html",
+      "fingerprint": "5053f202948aafe1e4e185cb521c4c7b51122282ca1b6319cd507d7b57a3357b",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "a50c839c70242387": {
+      "source_id": "a50c839c70242387",
+      "path": "04_学生资助/网页/武汉大学家庭经济困难学生认定实施办法 07-08.html",
+      "fingerprint": "889aa02bec7d462838e54efb5d9436aad444492041657781d2ceb61837a077e7",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "2f2b85b88b73e20d": {
+      "source_id": "2f2b85b88b73e20d",
+      "path": "04_学生资助/网页/武汉大学家庭经济困难学生认定实施办法 2020-07-08.html",
+      "fingerprint": "7fe07c341e5afa6c9e7697ddaa800cdbfd5ba14c2c4a7309242f5a46698b5543",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "1c75b5f4cb53e7fe": {
+      "source_id": "1c75b5f4cb53e7fe",
+      "path": "04_学生资助/网页/武汉大学本科生专项困难补助申请表（专项临时困难补助） 2022-11-15.html",
+      "fingerprint": "3b2d0f96086187aeceb81c8eeab71a241ef69d5152e0f6a2fec73169576d3c98",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "0b77211c97fa41eb": {
+      "source_id": "0b77211c97fa41eb",
+      "path": "04_学生资助/网页/资助资料下载.html",
+      "fingerprint": "5eb57ac4f943fc542fe8928efd7f2818b7a6a3a21e758946db0971bfbf5f0be3",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "db03e90e5319f2c9": {
+      "source_id": "db03e90e5319f2c9",
+      "path": "04_学生资助/附件/2010112515513_201841994228.doc",
+      "fingerprint": "8fb1abe326fd7183b8a395aaad3f6e134cde0993554a602c8af274feeb7554d7",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "b83e31227e0ad13b": {
+      "source_id": "b83e31227e0ad13b",
+      "path": "04_学生资助/附件/201841993954.doc",
+      "fingerprint": "6a82fb84b5efd56d0cb53014c99a9d9504c574a9a5687e58c82a9efac24960e0",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "fd4f60ae830f982a": {
+      "source_id": "fd4f60ae830f982a",
+      "path": "04_学生资助/附件/2018814161210.doc",
+      "fingerprint": "c48e8145cee9e978a97cd1493a0466e17321e226e2a587e8b5c90852853e0fa7",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "5e3f443f929df638": {
+      "source_id": "5e3f443f929df638",
+      "path": "04_学生资助/附件/201911517574.docx",
+      "fingerprint": "821204fdcc81afc35dfbc4b562c6c1195ad8fa657813ac58b85a8da0bd06ae81",
+      "type": ".docx",
+      "status": "success"
+    },
+    "52f2ef05bf9ee148": {
+      "source_id": "52f2ef05bf9ee148",
+      "path": "04_学生资助/附件/2019822155227_202172151027.doc",
+      "fingerprint": "fa06215a6883ac84b857ff7576371779766fdc3c39c2c40eb4b76e8237c9b2fa",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "830c48b075dd2fb6": {
+      "source_id": "830c48b075dd2fb6",
+      "path": "04_学生资助/附件/202011017637.xls",
+      "fingerprint": "bf3a906f4740050571589ed340f7eb91e415c0ff262192225fa873e98f32c9ce",
+      "type": ".xls",
+      "status": "skipped"
+    },
+    "82f16b5bf9681024": {
+      "source_id": "82f16b5bf9681024",
+      "path": "04_学生资助/附件/202011017724.doc",
+      "fingerprint": "8dfed4fc67364450302d216e4c85ef671e0254314018d917240dfbe9904259bc",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "683a8e29bba1b8d1": {
+      "source_id": "683a8e29bba1b8d1",
+      "path": "04_学生资助/附件/202051994645_2020525153955.docx",
+      "fingerprint": "da47cd3dfbaee4dd508ad0837c1feca96dc1487e2dcae0155971bfabd4552280",
+      "type": ".docx",
+      "status": "success"
+    },
+    "2caa7b432ba799ad": {
+      "source_id": "2caa7b432ba799ad",
+      "path": "04_学生资助/附件/2021101416270.doc",
+      "fingerprint": "71ce15d18ebf2dcd90b3570edb7bc1ff85473f03b14fd26b776812a8e12da2db",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "41ff753601871bfc": {
+      "source_id": "41ff753601871bfc",
+      "path": "04_学生资助/附件/20211110144522.doc",
+      "fingerprint": "27acae66e5004210bd0425ca55703c3335911c1536369b9b7023553900a73199",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "865fc0047371901b": {
+      "source_id": "865fc0047371901b",
+      "path": "04_学生资助/附件/202142610023.xls",
+      "fingerprint": "bb85e50377cf845a4a632efd086645487894655652f1e97d49b92feb9267eaa9",
+      "type": ".xls",
+      "status": "skipped"
+    },
+    "d4df47496ed5f7d4": {
+      "source_id": "d4df47496ed5f7d4",
+      "path": "04_学生资助/附件/202142695916.xls",
+      "fingerprint": "10d1603b418caabb08d596df8f74dbb096b42fd8bc74416919538a64d7f1aa68",
+      "type": ".xls",
+      "status": "skipped"
+    },
+    "db47a5ce9056734b": {
+      "source_id": "db47a5ce9056734b",
+      "path": "04_学生资助/附件/202162317398.doc",
+      "fingerprint": "18e35185ce372160a80186db94c2a5a48f55e5e9d9b9f06a1da0a7259331ed79",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "85da364f115b89a4": {
+      "source_id": "85da364f115b89a4",
+      "path": "04_学生资助/附件/20225239737.pdf",
+      "fingerprint": "fb6805d492063d2a6aa935ec0f2c236056c5dfe12fc0be4d9de437450a0135c6",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "967c4fe7b640b81b": {
+      "source_id": "967c4fe7b640b81b",
+      "path": "04_学生资助/附件/2025nianrendingshouce-08-wuhandaxuejiatingjingjikunnanxueshengrendingtanhuajilubiao.docx",
+      "fingerprint": "8eecd96d49a19179cbc89ed04cd0a59a07ac899b72e3f6cf61b57f68f0e53698",
+      "type": ".docx",
+      "status": "success"
+    },
+    "0a6afdae0c17004b": {
+      "source_id": "0a6afdae0c17004b",
+      "path": "04_学生资助/附件/37E1556F74952BA1294E245929E_28A9CA2C_4DD81.pdf",
+      "fingerprint": "2ca64bec082421486c20f4f4e381f27f6e71901cc37dda31366ebcd732b34781",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "499da3a141ac4f6e": {
+      "source_id": "499da3a141ac4f6e",
+      "path": "04_学生资助/附件/关于修订印发《武汉大学国家助学贷款管理实施办法》的通知.pdf",
+      "fingerprint": "bf50271d26d4a52fb7d30d3b43865003a72e32d5aa811735caa7be92f6c6ea47",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "de0bb9b015a3e3a8": {
+      "source_id": "de0bb9b015a3e3a8",
+      "path": "04_学生资助/附件/关于修订印发《武汉大学本科生国家助学金实施细则》的通知（武大学工字(2026)7号）.pdf",
+      "fingerprint": "66dde78c025afb7501b7f40be5df32ac2d2b54e0e5bae00117011f86e6fcec56",
+      "type": ".pdf",
+      "status": "success"
+    },
+    "a9b9e7454da73a14": {
+      "source_id": "a9b9e7454da73a14",
+      "path": "04_学生资助/附件/国家助学金申请表.doc",
+      "fingerprint": "0cec2c36a5d6174f279a03ef32250131ca39f56a78bc73ff890b5ee649f62943",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "e020335a490a99cf": {
+      "source_id": "e020335a490a99cf",
+      "path": "04_学生资助/附件/武汉大学本科生专项困难资助申请表.doc",
+      "fingerprint": "ab91804be5d27cb89bf6d40aa64980ffb764706b288e228a4657bef881c6fe2c",
+      "type": ".doc",
+      "status": "skipped"
+    },
+    "72fbb57ae4e1b26f": {
+      "source_id": "72fbb57ae4e1b26f",
+      "path": "05_学校治理与制度索引/网页/武汉大学章程.html",
+      "fingerprint": "6f42a4881c623128d5f96787e53afcdda2862394c743776bcde5de3406479bf8",
+      "type": ".html",
+      "status": "skipped"
+    },
+    "06845a04f7672e31": {
+      "source_id": "06845a04f7672e31",
+      "path": "05_学校治理与制度索引/附件/419AB3B3FFA90366F9C4157A88C_0F270FA6_6F350.pdf",
+      "fingerprint": "3f0c0de348d469229c207a809260dbf2da2befc316f557ac5f4f3d7f1a79450c",
+      "type": ".pdf",
+      "status": "success"
+    }
+  }
+}
